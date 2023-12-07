@@ -1,0 +1,12 @@
+/home/rsemihkoca/Projects/RecipeApp/BuberBreakfast/BuberBreakfast.Contracts/bin/Debug/net8.0/BuberBreakfast.Contracts.deps.json
+/home/rsemihkoca/Projects/RecipeApp/BuberBreakfast/BuberBreakfast.Contracts/bin/Debug/net8.0/BuberBreakfast.Contracts.dll
+/home/rsemihkoca/Projects/RecipeApp/BuberBreakfast/BuberBreakfast.Contracts/bin/Debug/net8.0/BuberBreakfast.Contracts.pdb
+/home/rsemihkoca/Projects/RecipeApp/BuberBreakfast/BuberBreakfast.Contracts/obj/Debug/net8.0/BuberBreakfast.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+/home/rsemihkoca/Projects/RecipeApp/BuberBreakfast/BuberBreakfast.Contracts/obj/Debug/net8.0/BuberBreakfast.Contracts.AssemblyInfoInputs.cache
+/home/rsemihkoca/Projects/RecipeApp/BuberBreakfast/BuberBreakfast.Contracts/obj/Debug/net8.0/BuberBreakfast.Contracts.AssemblyInfo.cs
+/home/rsemihkoca/Projects/RecipeApp/BuberBreakfast/BuberBreakfast.Contracts/obj/Debug/net8.0/BuberBreakfast.Contracts.csproj.CoreCompileInputs.cache
+/home/rsemihkoca/Projects/RecipeApp/BuberBreakfast/BuberBreakfast.Contracts/obj/Debug/net8.0/BuberBreakfast.Contracts.sourcelink.json
+/home/rsemihkoca/Projects/RecipeApp/BuberBreakfast/BuberBreakfast.Contracts/obj/Debug/net8.0/BuberBreakfast.Contracts.dll
+/home/rsemihkoca/Projects/RecipeApp/BuberBreakfast/BuberBreakfast.Contracts/obj/Debug/net8.0/refint/BuberBreakfast.Contracts.dll
+/home/rsemihkoca/Projects/RecipeApp/BuberBreakfast/BuberBreakfast.Contracts/obj/Debug/net8.0/BuberBreakfast.Contracts.pdb
+/home/rsemihkoca/Projects/RecipeApp/BuberBreakfast/BuberBreakfast.Contracts/obj/Debug/net8.0/ref/BuberBreakfast.Contracts.dll
