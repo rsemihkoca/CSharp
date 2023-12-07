@@ -1,0 +1,45 @@
+GET http://localhost:5041/breakfasts/55373792-d079-431b-a5c1-2c527647f3c5
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8.1)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-12-07T162025.200.json
+
+###
+
+DELETE http://localhost:5041/breakfasts/55373792-d079-431b-a5c1-2c527647f3c5
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8.1)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-12-07T162016.200.json
+
+###
+
+PUT http://localhost:5041/breakfasts/55373792-d079-431b-a5c1-2c527647f3c5
+Content-Type: application/json
+Content-Length: 336
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8.1)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+    "name": "Vegan Sunshine 2",
+    "description": "Vegan everything! Join us for a healthy breakfast..",
+    "startDateTime": "2022-04-08T08:00:00",
+    "endDateTime": "2022-04-08T11:00:00",
+    "savory": [
+        "Oatmeal",
+        "Avocado Toast",
+        "Omelette",
+        "Salad"
+    ],
+    "Sweet": [
+        "Cookie"
+    ]
+}
+
+<> 2023-12-07T161825.200.json
+
+###
+

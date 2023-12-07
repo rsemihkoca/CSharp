@@ -10,6 +10,8 @@
 /home/rsemihkoca/Projects/RecipeApp/BuberBreakfast/BuberBreakfast/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
 /home/rsemihkoca/Projects/RecipeApp/BuberBreakfast/BuberBreakfast/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
 /home/rsemihkoca/Projects/RecipeApp/BuberBreakfast/BuberBreakfast/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/home/rsemihkoca/Projects/RecipeApp/BuberBreakfast/BuberBreakfast/bin/Debug/net8.0/BuberBreakfast.Contracts.dll
+/home/rsemihkoca/Projects/RecipeApp/BuberBreakfast/BuberBreakfast/bin/Debug/net8.0/BuberBreakfast.Contracts.pdb
 /home/rsemihkoca/Projects/RecipeApp/BuberBreakfast/BuberBreakfast/obj/Debug/net8.0/BuberBreakfast.csproj.AssemblyReference.cache
 /home/rsemihkoca/Projects/RecipeApp/BuberBreakfast/BuberBreakfast/obj/Debug/net8.0/BuberBreakfast.GeneratedMSBuildEditorConfig.editorconfig
 /home/rsemihkoca/Projects/RecipeApp/BuberBreakfast/BuberBreakfast/obj/Debug/net8.0/BuberBreakfast.AssemblyInfoInputs.cache
