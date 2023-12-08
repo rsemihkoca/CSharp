@@ -9,47 +9,30 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b7135509-6617-4313-ad74-96810184cdfc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BuberBreakfast/Controllers/BreakfastsController.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Requests/CreateBreakfast.http" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.BuberBreakfast/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.BuberBreakfast/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.BuberBreakfast/.idea/indexLayout.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.BuberBreakfast/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BuberBreakfast.Contracts/Class1.cs" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/BuberBreakfast/Models/Breakfast.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.BuberBreakfast/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.BuberBreakfast/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/BuberBreakfast.Contracts/bin/Debug/net8.0/BuberBreakfast.Contracts.dll" beforeDir="false" afterPath="$PROJECT_DIR$/BuberBreakfast.Contracts/bin/Debug/net8.0/BuberBreakfast.Contracts.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/BuberBreakfast.Contracts/bin/Debug/net8.0/BuberBreakfast.Contracts.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/BuberBreakfast.Contracts/bin/Debug/net8.0/BuberBreakfast.Contracts.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/BuberBreakfast.Contracts/obj/Debug/net8.0/BuberBreakfast.Contracts.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/BuberBreakfast.Contracts/obj/Debug/net8.0/BuberBreakfast.Contracts.AssemblyInfo.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/BuberBreakfast.Contracts/obj/Debug/net8.0/BuberBreakfast.Contracts.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/BuberBreakfast.Contracts/obj/Debug/net8.0/BuberBreakfast.Contracts.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BuberBreakfast.Contracts/obj/Debug/net8.0/BuberBreakfast.Contracts.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/BuberBreakfast.Contracts/obj/Debug/net8.0/BuberBreakfast.Contracts.csproj.CoreCompileInputs.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/BuberBreakfast.Contracts/obj/Debug/net8.0/BuberBreakfast.Contracts.dll" beforeDir="false" afterPath="$PROJECT_DIR$/BuberBreakfast.Contracts/obj/Debug/net8.0/BuberBreakfast.Contracts.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/BuberBreakfast.Contracts/obj/Debug/net8.0/BuberBreakfast.Contracts.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/BuberBreakfast.Contracts/obj/Debug/net8.0/BuberBreakfast.Contracts.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/BuberBreakfast.Contracts/obj/Debug/net8.0/BuberBreakfast.Contracts.sourcelink.json" beforeDir="false" afterPath="$PROJECT_DIR$/BuberBreakfast.Contracts/obj/Debug/net8.0/BuberBreakfast.Contracts.sourcelink.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/BuberBreakfast.Contracts/obj/Debug/net8.0/ref/BuberBreakfast.Contracts.dll" beforeDir="false" afterPath="$PROJECT_DIR$/BuberBreakfast.Contracts/obj/Debug/net8.0/ref/BuberBreakfast.Contracts.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/BuberBreakfast.Contracts/obj/Debug/net8.0/refint/BuberBreakfast.Contracts.dll" beforeDir="false" afterPath="$PROJECT_DIR$/BuberBreakfast.Contracts/obj/Debug/net8.0/refint/BuberBreakfast.Contracts.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/BuberBreakfast/BuberBreakfast.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/BuberBreakfast/BuberBreakfast.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BuberBreakfast/BuberBreakfast.http" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BuberBreakfast/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/BuberBreakfast/Program.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BuberBreakfast/bin/Debug/net8.0/BuberBreakfast.deps.json" beforeDir="false" afterPath="$PROJECT_DIR$/BuberBreakfast/bin/Debug/net8.0/BuberBreakfast.deps.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BuberBreakfast/Controllers/BreakfastsController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/BuberBreakfast/Controllers/BreakfastsController.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/BuberBreakfast/bin/Debug/net8.0/BuberBreakfast.dll" beforeDir="false" afterPath="$PROJECT_DIR$/BuberBreakfast/bin/Debug/net8.0/BuberBreakfast.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/BuberBreakfast/bin/Debug/net8.0/BuberBreakfast.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/BuberBreakfast/bin/Debug/net8.0/BuberBreakfast.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BuberBreakfast/obj/BuberBreakfast.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/BuberBreakfast/obj/BuberBreakfast.csproj.nuget.dgspec.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/BuberBreakfast/obj/Debug/net8.0/BuberBreakfast.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/BuberBreakfast/obj/Debug/net8.0/BuberBreakfast.AssemblyInfo.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/BuberBreakfast/obj/Debug/net8.0/BuberBreakfast.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/BuberBreakfast/obj/Debug/net8.0/BuberBreakfast.AssemblyInfoInputs.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/BuberBreakfast/obj/Debug/net8.0/BuberBreakfast.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/BuberBreakfast/obj/Debug/net8.0/BuberBreakfast.csproj.AssemblyReference.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/BuberBreakfast/obj/Debug/net8.0/BuberBreakfast.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/BuberBreakfast/obj/Debug/net8.0/BuberBreakfast.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BuberBreakfast/obj/Debug/net8.0/BuberBreakfast.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/BuberBreakfast/obj/Debug/net8.0/BuberBreakfast.csproj.FileListAbsolute.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/BuberBreakfast/obj/Debug/net8.0/BuberBreakfast.dll" beforeDir="false" afterPath="$PROJECT_DIR$/BuberBreakfast/obj/Debug/net8.0/BuberBreakfast.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/BuberBreakfast/obj/Debug/net8.0/BuberBreakfast.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/BuberBreakfast/obj/Debug/net8.0/BuberBreakfast.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/BuberBreakfast/obj/Debug/net8.0/BuberBreakfast.sourcelink.json" beforeDir="false" afterPath="$PROJECT_DIR$/BuberBreakfast/obj/Debug/net8.0/BuberBreakfast.sourcelink.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/BuberBreakfast/obj/Debug/net8.0/ref/BuberBreakfast.dll" beforeDir="false" afterPath="$PROJECT_DIR$/BuberBreakfast/obj/Debug/net8.0/ref/BuberBreakfast.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/BuberBreakfast/obj/Debug/net8.0/refint/BuberBreakfast.dll" beforeDir="false" afterPath="$PROJECT_DIR$/BuberBreakfast/obj/Debug/net8.0/refint/BuberBreakfast.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BuberBreakfast/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/BuberBreakfast/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BuberBreakfast/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/BuberBreakfast/obj/project.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BuberBreakfast/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/BuberBreakfast/obj/project.packagespec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BuberBreakfast/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/BuberBreakfast/obj/rider.project.model.nuget.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BuberBreakfast/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/BuberBreakfast/obj/rider.project.restore.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../start.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../start.sh" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,30 +69,30 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/rsemihkoca/Projects/RecipeApp/BuberBreakfast&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/home/rsemihkoca/Projects/RecipeApp/BuberBreakfast",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.sourceCode",
+    "vue.rearranger.settings.migration": "true"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;rider.external.source.directories&quot;: [
-      &quot;/home/rsemihkoca/.config/JetBrains/Rider2023.2/resharper-host/DecompilerCache&quot;,
-      &quot;/home/rsemihkoca/.config/JetBrains/Rider2023.2/resharper-host/SourcesCache&quot;,
-      &quot;/home/rsemihkoca/.local/share/Symbols/src&quot;
+  "keyToStringList": {
+    "rider.external.source.directories": [
+      "/home/rsemihkoca/.config/JetBrains/Rider2023.2/resharper-host/DecompilerCache",
+      "/home/rsemihkoca/.config/JetBrains/Rider2023.2/resharper-host/SourcesCache",
+      "/home/rsemihkoca/.local/share/Symbols/src"
     ]
   }
-}</component>
-  <component name="RunManager" selected="HTTP Request.GetBreakfast | #1">
+}]]></component>
+  <component name="RunManager" selected=".NET Launch Settings Profile.Program">
     <configuration name="App" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="$PROJECT_DIR$/BuberBreakfast/bin/Debug/net8.0/BuberBreakfast" />
       <option name="PROGRAM_PARAMETERS" value="" />
@@ -189,7 +172,8 @@
       <workItem from="1701944261718" duration="1570000" />
       <workItem from="1701945979711" duration="46000" />
       <workItem from="1701946315659" duration="7067000" />
-      <workItem from="1701953638617" duration="854000" />
+      <workItem from="1701953638617" duration="4089000" />
+      <workItem from="1701959165452" duration="1588000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <option name="closed" value="true" />
@@ -223,7 +207,15 @@
       <option name="project" value="LOCAL" />
       <updated>1701947356102</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="commit">
+      <option name="closed" value="true" />
+      <created>1701955553942</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1701955553942</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -243,8 +235,12 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
-    <MESSAGE value="commit" />
     <MESSAGE value="add schemes" />
-    <option name="LAST_COMMIT_MESSAGE" value="add schemes" />
+    <MESSAGE value="commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
