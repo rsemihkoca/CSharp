@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "rMUxXiyhIVg0EJfOVCAKu5rxSDqfnFKQk52hCuKnook56S/cN4TOca8WGqKdmazwmrT106gCfo04noWlcOJZMQ==",
+  "dgSpecHash": "4o5zRMp37Je9v7X+n2Idw2ieYXF0KmYE0BSnuTTqFpRGVFXl0k3ij7Ur2qslIK7TPeJDw0lJaohVX9+LTQ0nFQ==",
   "success": true,
   "projectFilePath": "/home/rsemihkoca/Projects/RecipeApp/BuberBreakfast/BuberBreakfast/BuberBreakfast.csproj",
   "expectedPackageFiles": [
+    "/home/rsemihkoca/.nuget/packages/erroror/1.3.0/erroror.1.3.0.nupkg.sha512",
     "/home/rsemihkoca/.nuget/packages/microsoft.aspnetcore.openapi/8.0.0/microsoft.aspnetcore.openapi.8.0.0.nupkg.sha512",
     "/home/rsemihkoca/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "/home/rsemihkoca/.nuget/packages/microsoft.openapi/1.4.3/microsoft.openapi.1.4.3.nupkg.sha512",

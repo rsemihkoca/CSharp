@@ -34,3 +34,4 @@
 /home/rsemihkoca/Projects/RecipeApp/BuberBreakfast/BuberBreakfast/obj/Debug/net8.0/BuberBreakfast.pdb
 /home/rsemihkoca/Projects/RecipeApp/BuberBreakfast/BuberBreakfast/obj/Debug/net8.0/BuberBreakfast.genruntimeconfig.cache
 /home/rsemihkoca/Projects/RecipeApp/BuberBreakfast/BuberBreakfast/obj/Debug/net8.0/ref/BuberBreakfast.dll
+/home/rsemihkoca/Projects/RecipeApp/BuberBreakfast/BuberBreakfast/bin/Debug/net8.0/ErrorOr.dll
